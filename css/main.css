@@ -45,3 +45,15 @@ h3 {
     color: deeppink;
     font: 400 30px "Book Antiqua";
 }
+
+
+.card{
+    display: flex;
+    border: 2px solid orange;
+    background-color: grey;
+}
+
+.card>p{
+    color: darkmagenta;
+    font: 400 13px "Arial"
+}
